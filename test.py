@@ -161,7 +161,7 @@ class GRPC_math_solve(rpc.GRPC_math_solve):
             return responce
 
         except Exception as error:
-            logger.error(f"Checking of metadata errorr: {error}")
+            logger.error(f"Checking of metadata errorrr: {error}")
             return pb.MetadataResponse(
                 )
         
