@@ -1,0 +1,23 @@
+[33mcommit dfaee9598c059115603c78b2240c22e124e3806b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: Usov Nikita <nikitosu27@gmail.com>
+Date:   Mon Jun 2 15:30:19 2025 +0700
+
+    just add one letter
+
+[33mcommit 6f320ec3a9afe3e0fec17459c66bc0648278b643[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Usov Nikita <nikitosu27@gmail.com>
+Date:   Mon Jun 2 15:17:33 2025 +0700
+
+    a new branch named develop
+
+[33mcommit db28467b628b2f22e7713553ddfc31bd5f159cad[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Usov Nikita <nikitosu27@gmail.com>
+Date:   Mon Jun 2 15:15:13 2025 +0700
+
+    my first commit to test-repo to main branch
+
+[33mcommit 9d29e6f377827a5d0a871e52c51839a2ad940492[m
+Author: usov.nikita <97665918+dagahan@users.noreply.github.com>
+Date:   Mon Jun 2 14:58:50 2025 +0700
+
+    Initial commit
